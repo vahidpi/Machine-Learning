@@ -1,2 +1,3 @@
 # Machine-Learning
-Machine Learning, practices and projects  
+
+Machine Learning, practices and projects.  
